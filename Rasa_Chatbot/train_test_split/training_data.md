@@ -1,0 +1,841 @@
+## intent:default
+- he
+- what?
+- ..
+- asdaf
+- ...
+- .
+- noooooooo
+
+## intent:affirm
+- Good
+- not bad
+- how nice!
+- of course
+- yeah'=
+- yas
+- yup
+- yes, give me information, please
+- Great
+- yeeeeezzzzz
+- yes,i am
+- yea
+- yes i have built a bot before
+- okay
+- go
+- Ofcourse
+- amazing!
+- I agree
+- lets do it
+- Yes, I accept
+- I accept.
+- done
+- yep if i have to
+- Ok.
+- I am using it
+- yesss
+- yaah
+- yes i have!
+- oui
+- yesh
+- k
+- Oh yes
+- ok, I behave now
+- great
+- yyeeeh
+- thats good
+- okay cool
+- ja cool
+- yesyestyes
+- i agree
+- yep thats cool
+- kk
+- hm, i'd like that
+- Oh, ok
+- yeah, why not
+- yes'
+- great lets do that
+- fcourse
+- ok fine
+- alright
+- yaps
+- yep. :/
+- alright, cool
+- I'd absolutely love that
+- very much
+- I changed my mind. I want to accept it
+- yes please
+- Awesome!
+- that sounds fine
+- fuck yeah!
+- ye
+- YUP
+- oki doki
+- ya go for it
+- coolio
+- yop
+- good.
+- I will
+- I get it
+- yes sirfr
+- yes i accept
+- Sweet
+- fair enough
+- ook
+- sure thing
+- si
+- top
+- Yes please
+- accepted
+- cool story bro
+- Cool
+- yessoo
+- lets do this
+- That would be great
+- that's great
+- thats great
+- yes ...
+- yes cool
+- ys
+- yes please!
+- ja
+- go ahead
+- yes.
+- a little
+- OK
+- Ok let's start
+- perfect
+- ok great
+- oh cool
+- i want that
+- yeeees
+- Yep that's fine
+- oh awesome!
+- ok cool
+- sort of
+- jo
+- hell yes
+- amayzing
+- its okay
+- ok friend
+- ya
+- ja thats great
+- ya please
+- fine
+- yay
+- ok good
+- ok sara
+- yes go ahead
+- considering
+- definitely yes without a doubt
+- YES
+- okie
+- good
+- I guess so
+- yep i want that
+- yes great
+- yes go for it
+- absolutely
+- yes I do
+- you asked me a yes or no question, which i answered with yes
+- sure
+- ok, I understood
+- please
+- ah ok
+- yes accept please
+- ok
+- yep
+- okay sure
+- yep that's nice
+- Yeah sure
+- Yes I do
+- ya i want
+- yes it was okay
+- Ok
+- Yeah
+- I have used it in the past
+- yes pls
+- yes i agree
+- oh super
+- Yep!
+- awesome
+- sure!
+- yes, I'd love to
+- Yep
+- ye splease
+- well yes
+- nice
+- cool :)
+- yes
+- Sure
+- Yea
+- confirm
+- awesome!
+- Yes
+- yap
+- Accept
+- ya cool
+- yes baby
+- ok i accept
+- oh good !!
+- yes you can
+- i accept
+- yesssss
+- y
+- yep please
+- agreed
+- I accept
+- Nice
+- you got me, I accept, if you want me to
+- yeah sure
+
+## intent:goodbye
+- thank you, bye
+- end
+- goodbye
+- have a good one
+- Cya
+- Have a nice day!
+- Ciao
+- Get back to you
+- bye
+- farewell
+- Visit again. Cya
+- Nice you again
+- nothing, see you bye
+- good bye
+
+## intent:greet
+- dear sir
+- hello
+- hey
+- hi chatbot
+- good evening
+- this is crazy
+- hey foodie bot
+- hey buddy
+- Whatsup
+- greetings!
+- just want to say hai... :)
+- hola
+- hi
+- Vanakam
+- Hola
+- are you there?
+- are you there bot?
+- Hi
+- good day
+- Are you around
+- Hello!
+- howdy
+- namaste
+- good morning
+- are you a bot?
+- help me
+- nothing, just kidding
+- hello there
+- How are you
+- helo
+- hola hola
+- ni hao
+- hello bot
+- greetings
+
+## intent:low
+- [112](price:low)
+- [149](price:low)
+
+## intent:mid
+- [599](price:mid)
+- [310](price:mid)
+
+## intent:high
+- [701](price:high)
+- [799](price:high)
+
+## intent:email_affirm
+- sure send it
+- yep
+- send it to [vijay#gmai..co.om](email)
+- certainly
+- why not
+- yes, please
+- definitely
+- send it to [vijay@g_gle..com](email)
+- yes, please send it to [vvijay07@msn.com](email)
+- sure. please send it
+- send it
+- send it to [google123$gmail.com](email)
+- definitely, send it to [vvijay4u@gmail.com](email)
+- ok, send them to [vijay@yahoo.com](email)
+- indeed
+- send it to [vvijay83@gmail.com](email)
+- yeah
+- sure please
+- Please send it to [vijay.123](email)
+- would you mind send it to [vija^edu.com](email)
+- yes, please send it to [xyz@sth.edu](email)
+- please do
+- send it please
+- yes please
+- ok, please send it to [vijay#google](email)
+- yes
+- awesome
+- send it to [vvijay4u@gmail.com](email)
+- yes. Please
+- please send it to [vvijay@yahoo.com](email)
+- yes please do send
+- sure, send it to [vvijay4u@gmail.com](email)
+- send it to my email [vvijay83@gmail.com](email)
+- that will be great
+- ok, please send it to [vijay@google](email)
+- please send it to [vvijay83@@gmail.com](email)
+- sure
+- send it over
+- fine
+
+## intent:email_deny
+- appreciate that, but i don't need
+- no issues
+- no thats okay
+- dont send it
+- no thanks
+- not required
+- not willing share my email
+- its fine
+- cannot provide email
+- no thats ok, thanks
+- no that's fine
+- i don't need
+- really? no thanks
+- no need, thanks
+- its fine, no need
+
+## intent:emailID
+- [rajesh@123.com](email)
+- [aasfasfd%asdf.c.c.](email)
+- [rajesh327$google.com](email)
+- [12345.com](email)
+- [vijay@brava_com](email)
+- [abcded.com](email)
+- [vvijay83@gmail.com](email)
+- [1234.1232.com](email)
+- [asdfadfds.com](email)
+- [rajasa@123.com](email)
+- [vijay@#gmaol.com](email)
+- [vijay@google](email)
+- [rajasvim1617@gmail.com](email)
+- [vvijay4u@gmail.com](email)
+- [noreply#yahoo.com](email)
+- [rajas@yahoo](email)
+- [google@gmail.com](email)
+
+## intent:restaurant_search
+- [low](price) price
+- i am looking for some [average priced](price:mid) restaurant nearby [kochi](location)
+- in [mubaim](location)
+- [jewish](cuisine)
+- show me a [mexican](cuisine) place in the [centre](location)
+- near [Nellore](location)
+- at [Allahabad](location)
+- [nepali](cuisine)
+- find me a [south indian](cuisine) restaurant
+- ok i will choose [north indian](cuisine)
+- [decent](price:mid)
+- help me to find some nice [south indian](cuisine) restaurant
+- well, what about [patna](location)
+- [french](cuisine)
+- may be in [low](price) price range
+- [cheaper](price:low)
+- [100 - 300](price:low)
+- suggest me some [south indian](cuisine) restaurant
+- i am looking for something [Lesser than Rs. 300](price:low)
+- around [Nagpur](location)
+- near [Asansol](location)
+- [100-300](price:low)
+- find me a restaurant in [tiruppur](location)
+- [top class](price:high)
+- [expensive](price:high)
+- find me a restaurant in [bangalore](location)
+- [premium](price:high)
+- find me a [Turkish](cuisine) restaurant
+- need some restaurant
+- please show me a few [italian](cuisine) restaurants in [bangalore](location)
+- Can you suggest some good restaurants in [Rishikesh](location)
+- hey there, i am looking for some [average price](price:mid) range [vietnamese](cuisine) restaurant around [panruti](location)
+- near [Bhavnagar](location)
+- [Madurai](location) [north indian](cuisine) restaurant
+- i see, how about [nellore](location)
+- [<300](price:low)
+- is there anything around [kolkata](location)
+- nearby [mangalore](location)
+- [700](price:mid)
+- [ambience](price:high)
+- find me some [low range](price:low) restaurants
+- help me to find some [american](cuisine) restaurant
+- [above 700](price:high)
+- help me in finding some restaurant
+- hey, please suggest me some [cheap](price:low) [irish](cuisine) restaurant
+- [posh](price:high)
+- i am looking for some restaurants around my place
+- around [Patna](location)
+- something in the [low range](price:low)
+- i want to grab some dinner
+- do you have something in [gurgaon](location)
+- I am looking for some restaurants in [Delhi](location).
+- how about [noida](location)
+- around [Pune](location)
+- [hyderabad](location)
+- search for restaurants
+- at [Ranchi](location)
+- find a cheap [chinese](cuisine) hotpot restaurant near [conoor](location)
+- [149](price:low)
+- in and around [Vellore](location)
+- i am looking for some beverages
+- [299](price:low)
+- around [Ludhiana](location)
+- [swedish](cuisine)
+- [Chinese](cuisine)
+- [bilaspur](location)
+- how about [hyderabad](location)
+- [200 - 300](price:low)
+- [spanish](cuisine)
+- in [Kochi](location)
+- [high price](price:high)
+- [pondicherry](location)
+- some where near [wayanad](location)
+- find me a restaurant in [mysore](location)
+- I want to eat something
+- [chinese](cuisine)
+- near [Durgapur](location)
+- find me a [cheap](price:low) restaurant around [hyderabad](location)
+- i want to grab lunch
+- [singaporean](cuisine)
+- [affordable](price:mid)
+- i'm thirsty i want to drink something
+- Please find me a restaurantin [bengaluru](location)
+- sorry, how about [chennai](location:Chennai)
+- I am looking for some restaurants in [Mumbai](location)
+- find me a [Mexican](cuisine) restaurant
+- in [Bilaspur](location)
+- would you please help me to find some [cheaper](price:low) [chinese](cuisine:Chinese) hotel near [chennai](location:Chennai)
+- can you find me a [chinese](cuisine) restaurant
+- [roof top](price:high)
+- [200](price:low)
+- may be [american](cuisine)
+- I am searching for a dinner spot
+- around [Kolkata](location)
+- okay, how about [delhi](location)
+- [South Indian](cuisine)
+- in the city [Maheshtala](location)
+- I'm hungry. Looking out for some good restaurants
+- can you find a retaurant in [Goa](location) in a [cheap](price:low) price range with [South Indian](cuisine) food for six people
+- would you help me to find some nice [north indian](cuisine) restaurant?
+- in the city [Kozhikode](location)
+- show me [rich](price) restuarants in [bengaluru](location)
+- how about near [krishnagiri](location)?
+- around [Ghaziabad](location)
+- i'm looking for a place to eat
+- [300](price:low)
+- find me a [cheap](price:low) [italian](cuisine) restaurant in [delhi](location) and send me an email with more details to [rajasvim1617@gmail.com](email)
+- [budget price](price:low)
+- how about [thai](cuisine)
+- show me [chinese](cuisine) restaurants
+- [average price](price:mid)
+- [low price](price:low)
+- [Lesser than Rs. 300](price:low)
+- in the city [Kakinada](location)
+- [500 - 600](price:mid)
+- i will try [greek](cuisine) cuisine
+- [300 - 700](price:mid)
+- I'm hungry. Looking out for some good [chinese](cuisine) restaurants in [chandigarh](location)
+- [greater than 700](price:high)
+- I am looking for some restaurants in [Bangalore](location)
+- around [Visakhapatnam](location)
+- [welsh](cuisine)
+- around [Thane](location)
+- Hello, i am hungry and looking out for a [cheaper](price:low) [korean](cuisine) restaurant near [karaikal](location)
+- [mid](price)
+- [medium](price:mid)
+- help me find some restaurant
+- around [Jaipur](location)
+- [Mexican](cuisine)
+- find me a [chinese](cuisine) restaurant in [chennai](location:Chennai)
+- around [Vadodara](location)
+- around [Indore](location)
+- [luxury](price:high)
+- around [Vasai-Virar](location)
+- at [chennai](location)
+- [500-600](price:mid)
+- [more than 700](price:high)
+- [VIP](price:high)
+- would you please tell me where is [medium price](price:mid) ranged [north indian](cuisine) restaurant around [villupuram](location)
+- please find me a [north indian](cuisine) restaurant in [madurai](location)
+- find me a restaurant in [noida](location)
+- would you please show me some [expensive](price:high) [mexican](cuisine) restaurants near [chennai](location) and send more details to my email id [vvijay83@gmail.com](email)
+- [moderate](price:mid)
+- around [mumbai](location)
+- [400](price:mid)
+- Help me to find something to eat
+- around [Kanpur](location)
+- [middle range](price:mid)
+- [999](price:high)
+- in [Kamarhati](location)
+- [budget](price:low)
+- at [Jabalpur](location)
+- [>700](price:high)
+- in the city [Gaya](location)
+- can you show some [middle range](price:mid) restaurants around?
+- [good ambience](price:high)
+- [latvian](cuisine)
+- [average price range](price:mid)
+- [900](price:high)
+- [bangalore](location)
+- Hey, i am looking for [expensive](price:high) [mexican](cuisine) restaurant in [kottayam](location)
+- at [Gwalior](location)
+- [cheap](price:low)
+- find me a restaurant in [savanur](location)
+- [normal](price:mid)
+- [0 to 300](price:low)
+- in and around [madurai](location)
+- [Pune](location)
+- around [chandigarh](location)
+- [701](price:high)
+- i will go with [african](cuisine) dishes
+- find some restaurant nearby
+- [600-700](price:mid)
+- i'll prefer [chitoor](location)
+- at [Bareilly](location)
+- find me some [japanese](cuisine) restaurant
+- i want to grab dinner
+- [499](price:mid)
+- [warangal](location)
+- around [Meerut](location)
+- at [Srinagar](location)
+- [yercaud](location)
+- [vellore](location)
+- would you help me to find some [north indian](cuisine) restaurants?
+- at [Dhanbad](location)
+- [low range](price:low)
+- i'll go for [chinese](cuisine)
+- around [Delhi](location)
+- i am looking for an [South Indian](cuisine) spot called olaolaolaolaolaola
+- around [Pimpri-Chinchwad](location)
+- [Italian](cuisine)
+- [high range](price:high)
+- find me a restaurant in [Chikmagalur](location)
+- [german](cuisine)
+- available in [Mumbai](location)?
+- [high](price)
+- [rich](price:high)
+- [inexpensive](price:low)
+- at [Howrah](location)
+- [400-500](price:mid)
+- [600](price:mid)
+- in [Gurgaon](location)
+- [ooty](location)
+- [1000](price:high)
+- anywhere around [Salem](location)
+- [vietnamese](cuisine)
+- help me to search some [moderate](price:mid) price ranged restaurant around [cochin](location)
+- [mid range](price:mid)
+- [medium price](price:mid)
+- around [Hyderabad](location)
+- how about [guntur](location)
+- can you suggest some nice [italian](cuisine) restaurant in [kochi](location) in [moderate](price:mid) price range
+- find me a [hungarian](cuisine) restaurant
+- around [Faridabad](location)
+- in [delhi](location)
+- in [Bijapur](location)
+- in and around [bangalore](location)
+- [100](price:low)
+- find me some [korean](cuisine) restaurants
+- near [Dehradun](location)
+- looking for [chinese](cuisine) restaurant
+- in [dalian](location)
+- find me some [expensive](price:high) restaurant
+- in [pune](location)
+- [russian](cuisine)
+- [american](cuisine)
+- [200-300](price:low)
+- i'll prefer [thai](cuisine)
+- please find me a restaurant in [ahmedabad](location)
+- please help me to find restaurants in [pune](location)
+- [chennai](location:Chennai)
+- [neyveli](location)
+- i am looking for [mid range](price:mid)
+- nearby [delhi](location)
+- find me a restaurant
+- [0 - 300](price:low)
+- I am looking for [mexican](cuisine)
+- I want to grab lunch
+- alright, i will pick [south indian](cuisine)
+- around [Rajkot](location)
+- i want to eat some cake
+- find me some nice restaurant
+- around [Surat](location)
+- [coimbatore](location)
+- [low](price)
+- at [Amritsar](location)
+- [300 to 700](price:mid)
+- Okay. show me some in [Warangal](location)
+- around [Ahmedabad](location)
+- around [Chennai](location)
+- [buffet](price:high)
+- [less than 300](price:low)
+- [799](price:high)
+- i'll try [french](cuisine)
+- [usual](price:mid)
+- at [NaviMumbai](location)
+- find me an [expensive](price:high) [south indian](cuisine) restaurant
+- [japanese](cuisine)
+- [600 - 700](price:mid)
+- in the city [Thiruvananthapuram](location)
+- [North Indian](cuisine)
+- [bakery](cuisine)
+- around [Nashik](location)
+- [350](price:mid)
+- around [Bhopal](location)
+- I am looking a restaurant in [294328](location)
+- [chenai](location:Chennai)
+- find me a [south indian](cuisine) restaurant in [chennai](location:Chennai)
+
+## synonym:Ahmedabad
+- Amdavad
+- Ahmedbad
+
+## synonym:American
+- Western
+- Amrican
+
+## synonym:Bangalore
+- Bengaluru
+- bengaluru
+- Bangaluru
+- bangalore
+- bengalore
+
+## synonym:Chennai
+- chennai
+- chenai
+- Madras
+- Madrasapattinam
+- Chenai
+
+## synonym:Chinese
+- chines
+- chinese
+- Chines
+- noodles
+- sichuan
+- momos
+- dumplings
+- sino
+
+## synonym:Delhi
+- New Delhi
+- Dilli
+- Dilhi
+- Navi Delhi
+- deli
+- delli
+- dhelli
+
+## synonym:Hyderabad
+- Hyderbad
+- Hydrabad
+- hiderbad
+- hydrabad
+
+## synonym:Italian
+- Pasta
+- Cheese
+- Pizza
+- Spaghetti
+- Margarita
+
+## synonym:Kolkata
+- Calcutta
+- Kalkatta
+- Kalkata
+- Colcatta
+- Colcutta
+- kolkatas
+- culcuta
+- calcata
+- kalkata
+
+## synonym:Mexican
+- Tacos
+- Mexcan
+- Mxican
+
+## synonym:Mumbai
+- mumbai
+- Bombay
+- Navi Mumbai
+
+## synonym:North Indian
+- Nort Indian
+- Norh Indian
+- Thali
+- Roti
+- Chapathi
+
+## synonym:Pune
+- Poona
+- Poone
+- puune
+
+## synonym:South Indian
+- Soth Indian
+- Suth Indian
+- Biriyani
+- Briyani
+- Dosa
+- Idly
+- Idli
+
+## synonym:high
+- 701
+- 799
+- 999
+- good ambience
+- high range
+- more than 700
+- greater than 700
+- expensive
+- >700
+- premium
+- luxury
+- posh
+- ambience
+- rich
+- buffet
+- high price
+- roof top
+- high end
+- 900
+- 1000
+- above 700
+- top class
+- VIP
+- modern
+
+## synonym:low
+- 112
+- 299
+- 149
+- cheap
+- Lesser than Rs. 300
+- less than 300
+- <300
+- 0 to 300
+- 0 - 300
+- low range
+- cheaper
+- budget
+- limited
+- inexpensive
+- low price
+- budget price
+- 200-300
+- 100-300
+- 200 - 300
+- 100 - 300
+- 100
+- 200
+- 300
+
+## synonym:mid
+- 310
+- 499
+- 599
+- moderate
+- mid range
+- 300 to 700
+- 300 - 700
+- average price
+- 300-700
+- medium price
+- average priced
+- middle range
+- 350
+- 400
+- 500
+- 600
+- 700
+- normal
+- usual
+- affordable
+- decent
+- average price range
+- medium
+- medium price range
+- 400-500
+- 400 - 500
+- 500-600
+- 500 - 600
+- 600-700
+- 600 - 700
+
+## regex:(price:high)
+- \b(70[1-9]|7[1-9][0-9]|[89][0-9]{2}|[1-8][0-9]{3}|9[0-8][0-9]{2}|99[0-8][0-9]|999[0-9]|[1-8][0-9]{4}|9[0-8][0-9]{3}|99[0-8][0-9]{2}|999[0-8][0-9]|9999[0-9]|[1-8][0-9]{5}|9[0-8][0-9]{4}|99[0-8][0-9]{3}|999[0-8][0-9]{2}|9999[0-8][0-9]|99999[0-9]|[1-8][0-9]{6}|9[0-8][0-9]{5}|99[0-8][0-9]{4}|999[0-8][0-9]{3}|9999[0-8][0-9]{2}|99999[0-8][0-9]|999999[0-9]|[1-8][0-9]{7}|9[0-8][0-9]{6}|99[0-8][0-9]{5}|999[0-8][0-9]{4}|9999[0-8][0-9]{3}|99999[0-8][0-9]{2}|999999[0-8][0-9]|9999999[0-9]|[1-8][0-9]{8}|9[0-8][0-9]{7}|99[0-8][0-9]{6}|999[0-8][0-9]{5}|9999[0-8][0-9]{4}|99999[0-8][0-9]{3}|999999[0-8][0-9]{2}|9999999[0-8][0-9]|99999999[0-9]|1000000000)\b
+
+## regex:(price:low)
+- \b([0-9]|[1-8][0-9]|9[0-9]|[12][0-9]{2}|300)\b
+
+## regex:(price:mid)
+- \b(30[1-9]|3[1-9][0-9]|[4-6][0-9]{2}|700)\b
+
+## regex:default
+- \b^[_a-zA-Z0-9-]+\b
+
+## regex:email
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*#[a-z]+(\.[a-z]+)*(\.[a-z]{2,3})$\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*#[a-z]+(\.[a-z]+)*\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*#[a-z]+\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*$[a-z]+(\.[a-z]+)*(\.[a-z]{2,3})$\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*$[a-z]+(\.[a-z]+)*\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*$[a-z]+\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*%[a-z]+(\.[a-z]+)*(\.[a-z]{2,3})$\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*%[a-z]+(\.[a-z]+)*\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*%[a-z]+\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-z]+(\.[a-z]+)*(\.[a-z]{2,3})$\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-z]+(\.[a-z]+)*\b
+- \b^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-z]+\b
+- \b^[a-z]+(\.[a-z]+)
+- \b^[a-z]+(\.[a-z]+)*(\.[a-z]{2,3})$\b
+
+## regex:greet
+- hello [^\s]*
+- hey[^\s]*
+- hi [^\s]*
+
+## regex:location
+- \b^[a-zA-Z]+Bhavi$\b
+- \b^[a-zA-Z]+Garh$\b
+- \b^[a-zA-Z]+Gud$\b
+- \b^[a-zA-Z]+Halli$\b
+- \b^[a-zA-Z]+Kaadu$\b
+- \b^[a-zA-Z]+Keri$\b
+- \b^[a-zA-Z]+Kote$\b
+- \b^[a-zA-Z]+Oor$\b
+- \b^[a-zA-Z]+Ooru$\b
+- \b^[a-zA-Z]+Pete$\b
+- \b^[a-zA-Z]+Pur$\b
+- \b^[a-zA-Z]+Pura$\b
+- \b^[a-zA-Z]+assa$\b
+- \b^[a-zA-Z]+bari$\b
+- \b^[a-zA-Z]+chhara$\b
+- \b^[a-zA-Z]+halli$\b
+- \b^[a-zA-Z]+kal$\b
+- \b^[a-zA-Z]+kudi$\b
+- \b^[a-zA-Z]+mura$\b
+- \b^[a-zA-Z]+ore$\b
+- \b^[a-zA-Z]+patti$\b
+- \b^[a-zA-Z]+puram$\b
+- \b^[a-zA-Z]+uru$\b
+
+## lookup:location
+  data/locations.txt

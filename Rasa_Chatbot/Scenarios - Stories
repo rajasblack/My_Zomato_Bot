@@ -1,0 +1,79 @@
+1. complete path <<-- complete
+2. complete path - wrong location << -- complete
+3. complete path - wrong location + wrong cuisine <-- complete
+4. complete path - wrong location + wrong cuisine + wrong email <--- complete
+5. complete path - wrong cuisine << complete
+6. complete path - wrong cuisine + wrong email << complete
+7. complete path - wrong email << complete
+8. complete path - wrong location + wrong email << complete
+
+
+user query: hi, i am looking for restaurant in delhi
+9. location given <<-- complete 
+10. location given - wrong location <<-- complete
+11. location given - wrong location + wrong cuisine<<-- complete
+12. location given - wrong location + wrong cuisine + wrong email<<-- complete
+13. location given - wrong cuisine<<-- complete
+14. location given - wrong cuisine + wrong email<<-- complete
+15. location given - wrong email<<-- complete
+16. location given - wrong location + wrong email<<-- complete
+
+user query: hi, i am looking for chinese restaurant
+9. cuisine given <<<-- complete
+10. cuisine given - wrong cuisine
+11. cuisine given - wrong location + wrong cuisine
+12. cuisine given - wrong location + wrong cuisine + wrong email <<< ---- complete
+13. cuisine given - wrong location
+14. cuisine given - wrong location + wrong email
+15. cuisine given - wrong email
+16. cuisine given - wrong cuisine + wrong email
+
+user query: hi, i am looking for cheaper restaurant
+9. price given <<--- complete
+10. price given - wrong cuisine
+11. price given - wrong location + wrong cuisine
+12. price given - wrong location + wrong cuisine + wrong email <<<---- complete
+13. price given - wrong location
+14. price given - wrong location + wrong email
+15. price given - wrong email
+16. price given - wrong cuisine + wrong email
+
+user query: hi, i am looking for chinese restaurant in mumbai
+9. location & cuisine given <<<---- complete
+10. location & cuisine given - wrong location
+11. location & cuisine given - wrong location + wrong cuisine
+12. location & cuisine given - wrong location + wrong cuisine + wrong email << -- complete
+13. location & cuisine given - wrong cuisine
+14. location & cuisine given - wrong cuisine + wrong email
+15. location & cuisine given - wrong email
+16. location & cuisine given - wrong location + wrong email
+
+user query: hi, i am looking for average price range restaurant in mumbai
+9. location & price given <<---- complete
+10. location & price given - wrong location
+11. location & price given - wrong location + wrong cuisine
+12. location & price given - wrong location + wrong cuisine + wrong email <<---- complete
+13. location & price given - wrong cuisine
+14. location & price given - wrong cuisine + wrong email
+15. location & price given - wrong email
+16. location & price given - wrong location + wrong email
+
+user query: hi, i am looking for expensive mexican restaurant
+9. cuisine & price given <<< ---- complete
+10. cuisine & price given - wrong location
+11. cuisine & price given - wrong location + wrong cuisine
+12. cuisine & price given - wrong location + wrong cuisine + wrong email <<<--- complete
+13. cuisine & price given - wrong cuisine
+14. cuisine & price given - wrong cuisine + wrong email
+15. cuisine & price given - wrong email
+16. cuisine & price given - wrong location + wrong email
+
+user query: hi, i am looking for expensive mexican restaurant in kolkata
+9. location, cuisine & price given <<-- complete
+10. location, cuisine & price given - wrong location <<-- complete
+11. location, cuisine & price given - wrong location + wrong cuisine <-- complete
+12. location, cuisine & price given - wrong location + wrong cuisine + wrong email <-- complete
+13. location, cuisine & price given - wrong cuisine <-- complete
+14. location, cuisine & price given - wrong cuisine + wrong email <<-- complete
+15. location, cuisine & price given - wrong email <--- complete
+16. location, cuisine & price given - wrong location + wrong email <<-- complete
