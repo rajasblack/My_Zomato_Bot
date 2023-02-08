@@ -1,7 +1,7 @@
 =======================================
 NLP Course Project - Building a Chatbot
 =======================================
-by - Vijay Venugopal & Rajesh Kumar S
+by - Rajesh Kumar S
 Date: Apr 28 2020
 
 
@@ -126,7 +126,7 @@ Your input ->  cheaper
 4. Found "Thangam Mess" in 18A, Ambigai Nivas, Arni Main Road, Kosapet, Vellore has been rated 3.4
 5. Found "Baby Restaurant" in 7, Anna Salai, Kosapet, Vellore has been rated 3.4
 Should I send you the details of all the restaurants on email?
-Your input ->  yes please send it to vvijay83@gmail.com
+Your input ->  yes please send it to v83@gmail.com
 Sent. Bon Appetit!
 See you again!
 Your input ->  hi there
