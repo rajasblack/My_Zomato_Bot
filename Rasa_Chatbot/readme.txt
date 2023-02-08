@@ -191,7 +191,7 @@ Sorry, the cuisine is not available yet. Please try again with the given options
 4. Found "eat.fit" in 32/2G, NCPR Industrial Layout, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Whitefield, Bangalore has been rated 4.3
 5. Found "eat.fit" in 16, 1st Main Road, Muneswara Nagar, Sector 6, HSR, Bangalore has been rated 4.3
 Should I send you the details of all the restaurants on email?
-Your input ->  sure send it to vvijay83@gmail.com
+Your input ->  sure send it to v83@gmail.com
 Sent. Bon Appetit!
 See you again!
 Your input ->  he
@@ -231,7 +231,7 @@ FYI
 From: <foodiebot777@gmail.com>
 Date: Tue, Apr 28, 2020 at 1:22 AM
 Subject: Your Foodie Bot Query
-To: <vvijay83@gmail.com>
+To: <v83@gmail.com>
 
 Hello, Please find the list of top 10 Italian restaurants around delhi in the mid price range.:
 
