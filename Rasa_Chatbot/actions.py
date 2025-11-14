@@ -149,7 +149,7 @@ class ActionSendEmail(Action):
     def run(self, dispatcher, tracker, domain):
         from_user = 'foodiebot777@gmail.com'
         to_user = tracker.get_slot('email')
-        password = 'upgrad123'
+        password = '<password>'
         server = smtplib.SMTP('smtp.gmail.com',587)
         server.starttls()
         server.login(from_user, password)
